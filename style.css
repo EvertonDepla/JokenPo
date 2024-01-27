@@ -72,3 +72,14 @@ p {
 .machine-score span {
     color: rgb(188, 33, 33);
 }
+
+@media (max-width: 450px) {
+    body {
+        background-position: center;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+   body{ background-position: center;
+   }
+}
