@@ -40,7 +40,7 @@
  <footer>
  <p>
   
-  Acesso ao projeto <a href="https://evertondepla.github.io/JokenPo/">Clique Aqui <a>
+  Acesso ao projeto <a href="https://evertondepla.github.io/JokenPo/" target="_blank">Clique Aqui <a>
   
  </p>
 </footer>
