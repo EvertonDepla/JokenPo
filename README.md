@@ -1,7 +1,7 @@
 <h1 align="center"> Jokenpô </h1>
 <br>
 <br>
-<h2 align="center">Jokenpô dinâmico utilizando JavaScript e as funções Math.floor() Math.random() </h2>
+<h2 align="center">Jokenpô dinâmico utilizando JavaScript</h2>
 
 <h2>Tecnologias utilizadas:
  <br> <br>
