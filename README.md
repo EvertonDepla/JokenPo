@@ -1,11 +1,7 @@
 <h1 align="center"> Jokenpô </h1>
 <br>
 <br>
-<h2 align="center">Jokenpô dinâmico utilizando JavaScript,  </h2>
-
-<h2>Funções utilizadas:</h2>
-
-Math.floor, (Math.random)
+<h2 align="center">Jokenpô dinâmico utilizando JavaScript e as funções Math.floor() Math.random() </h2>
 
 <h2>Tecnologias utilizadas:
  <br> <br>
@@ -13,17 +9,24 @@ Math.floor, (Math.random)
   <p>-Css3</p>
   <p>-Git</p>
   <p>-JavaScript</p>
+</h2> 
+<h2>Principais Functions:
+ <br> <br>
+ <p>-Math.floor()</p>
+ <p>-Math.random()</p>
+ <p>-ENUM</p>
+
 </h2>
 
 <h3 align="center"> Versão Desktop</h3>
 
-<img src="https://github.com/EvertonDepla/Contact-List/blob/master/assets/contactlistDesktop.PNG?raw=true" alt="print-site1">
+<img src="" alt="print-site1">
 
 <h3 align="center"> Versão Mobile</h3>
 
 <div align="center">
 
-<img src="https://github.com/EvertonDepla/Contact-List/blob/master/assets/contactlistMobile.PNG?raw=true" alt="print-site2" width="300px">
+<img src="" alt="print-site2" width="300px">
 
 </div>
 
@@ -31,13 +34,13 @@ Math.floor, (Math.random)
 
 <div align="center">
  
-<img src="https://github.com/EvertonDepla/Contact-List/blob/master/assets/contactlistTablet.PNG?raw=true" margin-left="200px">
+<img src="" margin-left="200px">
 
  </div>
- 
+ <footer>
  <p>
-
-  Acesso ao projeto <a href="https://evertondepla.github.io/Contact-List/">Clique Aqui <a>
+  
+  Acesso ao projeto <a href="">Clique Aqui <a>
   
  </p>
-
+</footer>
