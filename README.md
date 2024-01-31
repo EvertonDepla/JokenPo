@@ -20,13 +20,13 @@
 
 <h3 align="center"> Versão Desktop</h3>
 
-<img src="" alt="print-site1">
+<img src="https://github.com/EvertonDepla/JokenPo/blob/master/assets/jokenpodesktop.PNG?raw=true" alt="print-site1">
 
 <h3 align="center"> Versão Mobile</h3>
 
 <div align="center">
 
-<img src="" alt="print-site2" width="300px">
+<img src="https://github.com/EvertonDepla/JokenPo/blob/master/assets/jokenpomobile.PNG?raw=true" alt="print-site2" width="300px">
 
 </div>
 
@@ -34,7 +34,7 @@
 
 <div align="center">
  
-<img src="" margin-left="200px">
+<img src="https://github.com/EvertonDepla/JokenPo/blob/master/assets/jokenpotablet.PNG?raw=true" margin-left="200px">
 
  </div>
  <footer>
