@@ -1,5 +1,4 @@
 <h1 align="center"> Jokenpô </h1>
-<br>
 <h2 align="center">Jokenpô dinâmico utilizando JavaScript</h2>
 
 <h2>Tecnologias utilizadas:
